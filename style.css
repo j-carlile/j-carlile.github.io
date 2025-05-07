@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+header{
+    background-color: #eac748; 
+}
+
+nav{
+    background-color: #aeeaef;
+    font-size: 20px;
+}
+
+main{
+    background-color: #e7e3da;
+    font-size: 25px;
+}
+
+footer{
+    background-color: #e8c9f0;
+    font-size: 15px;
+}
+
+li{
+    display: block;
+    width:50% ;
+}
+
+h1{
+    text-align:center ;
+    font-family: 'Times New Roman', Times, serif;
+    color: #343577;
+}
+
+p{
+    line-height: 150%;
+}
